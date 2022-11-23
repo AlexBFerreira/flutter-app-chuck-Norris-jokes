@@ -1,6 +1,8 @@
 # chuck_norris_jokes
 
-A new Flutter project.
+A new Flutter project made in Flutter 3.0.1.
+
+After cloning the project run the command 'flutter pub get' in the root of the project
 
 ## Getting Started
 
